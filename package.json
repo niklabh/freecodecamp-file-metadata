@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "3.2.6",
     "jade": "*",
-    "multer": "^1.2.0"
+    "multer": "^2.0.1"
   }
 }
